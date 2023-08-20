@@ -1,6 +1,10 @@
 # obsidion-doxc-plugin
 
-可以下载玩玩
+可以下载玩玩，源码就不放了，丢人
+
+需要将 **docxjs.zip** 解压后保存到 .obsidian 目录下。注意不是放在 .obsidian\plugins 目录下面。
+
+之前用过一个插件，作者没有写清楚，折腾半天：（
 
 在 *Yaml* 区加入下面代码：
 
