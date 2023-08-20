@@ -1,4 +1,4 @@
-# obsidion-doxc-plugin
+# obsidian-doxc-plugin
 
 可以下载玩玩，源码就不放了，丢人
 
