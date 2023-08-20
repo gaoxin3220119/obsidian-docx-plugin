@@ -18,4 +18,5 @@ gx-data: []
 
 只支持批注，如果需要编辑，可以选择在菜单栏选择 “用默认Docx应用打开”来编辑
 
-感谢 [DLillard0](https://github.com/DLillard0) 大神！！！
+感谢 [DLillard0](https://github.com/DLillard0) 大神！！！高亮代码直接用的他的。
+另外还用了[VolodymyrBaydalka](https://github.com/VolodymyrBaydalka/docxjs)的docxjs。
