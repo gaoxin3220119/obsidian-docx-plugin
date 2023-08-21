@@ -1,7 +1,19 @@
 /* src/stalin.css */
 /* main.css */
-h2[data-v-f8994186] {
-  color: lightcoral;
+
+
+.book {
+  border: 1px solid var(--background-modifier-border);
+  padding: 10px;
+}
+
+.book__title {
+  font-weight: 600;
+}
+
+.book__author {
+  color: var(--text-muted);
+  padding-left: 105px;
 }
 
 /* src/main.css */
